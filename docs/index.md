@@ -1,6 +1,6 @@
 ## Welcome to the world of Anirudh Verma
-Hello world,\n
-I am Anirudh Verma, and currently I am a student in Guru Nanak Dev Engineering College Ludhiana, Punjab. I have pursued Mechanical Engineering. And I am in my First Year, so Freshe.
+Hello world! I welcome you to my world. Let me introduce myself and begin with my name.
+I am Anirudh Verma. My world begins with me and ends with me as my name does it with letter 'a'. So, in my world you all are just visiters in which only some special and few peoples are allowed to feel my vibes. For rest, it has "Do Not Touch" board. So, carefully step in and step out in my world. So, have a safe and happy journey at your own risk.
 ### Brief about me
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
