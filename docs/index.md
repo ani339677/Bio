@@ -1,9 +1,6 @@
 ## Welcome to the world of Anirudh Verma
-
-You can use the [editor on GitHub](https://github.com/ani339677/Bio/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Hello world,
+I am Anirudh Verma, and currently I am a student in Guru Nanak Dev Engineering College Ludhiana, Punjab. I have pursued Mechanical Engineering. And I am in my First Year, so Freshe.
 ### Brief about me
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
