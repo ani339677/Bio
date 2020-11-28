@@ -1,5 +1,5 @@
 ## Welcome to the world of Anirudh Verma
-Hello world,
+Hello world,\n
 I am Anirudh Verma, and currently I am a student in Guru Nanak Dev Engineering College Ludhiana, Punjab. I have pursued Mechanical Engineering. And I am in my First Year, so Freshe.
 ### Brief about me
 
