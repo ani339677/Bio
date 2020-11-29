@@ -5,33 +5,22 @@ I am Anirudh Verma. My world begins with me and ends with me as my name does it 
 I am a person with an attitude of being **UNSTOPPABLE** as my name even suggests that. Currently, I am a student in Guru Nanak Dev Engineering College (GNDEC) Ludhiana, Punjab. And I am pursuing B.Tech Course in Mechanical Engineering. I live in Chengalpattu district of TamilNadu but I basically belong to Haryana. Interestingly, my birthplace is Chennai.
 I have done my schooling from Atomic Energy Central School (AECS-1) Kalpakkam (from 1st to 3rd standard) and AECS Anupuram (from 4th to 12th standard). I have secured 93% in 10th std and 95.2% in 10+2 CBSE board.
 
-```markdown
-**'#include <stdio.h>'**
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+
 
 ### Hobbies and Interests
-My hobbies and interests are not much but exists. I like playing Badminton, but I am not able to play it during lockdown but it has a place in my heart and when I will get a chance, I will just grab it like anything. I am also interested in writing poetry when in humour. And I generally write sonnets (a poem of 14 lines). I am fitness addicted too so, I feel a day incomplete without workout. I am also interested in programming.
+My hobbies and interests are not much but exists. I like playing Badminton, but I am not able to play it during lockdown but it has a place in my heart and when I will get a chance, I will just grab it like anything. I am also interested in writing poetry when in humour. And I generally write sonnets (a poem of 14 lines). I am fitness addicted too so, I feel a day incomplete without workout. I am also interested in programming as I have learnt Python and in the process of learning C
 
 
 
 
 
 ### Support or Contact
+You can follow me on [instagram](
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
