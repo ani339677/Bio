@@ -25,6 +25,9 @@ I have done my schooling from Atomic Energy Central School (AECS-1) Kalpakkam (f
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+### Hobbies and Interests
+My hobbies and interests are not much but exists. I like playing Badminton, but I am not able to play it during lockdown but it has a place in my heart and when I will get a chance, I will just grab it like anything. I am also interested in writing poetry when in humour. And I generally write sonnets (a poem of 14 lines). I am fitness addicted too so, I feel a day incomplete without workout. I am also interested in programming.
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ani339677/Bio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
