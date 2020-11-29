@@ -2,7 +2,7 @@
 Hello world! I welcome you to my world. Let me introduce myself and begin with my name.
 I am Anirudh Verma. My world begins with me and ends with me as my name does it with letter 'a'. So, in my world you all are just visiters in which only some special and few peoples are allowed to feel my vibes. For rest, it has "Do Not Touch" board. So, carefully step in and step out in my world. So, have a safe and happy journey at your own risk.
 ### Brief about me
-I am a kid with an attitude of being UNSTOPPABLE as my name even suggests that.
+I am a person with an attitude of being UNSTOPPABLE as my name even suggests that. Currently, I am a student in Guru Nanak Dev Engineering College (GNDEC) Ludhiana, Punjab. And I am pursuing B.Tech Course in Mechanical Engineering. I live in Chengalpattu district of TamilNadu but I basically belong to Haryana. Even my birthplace is Chennai.
 
 ```markdown
 Syntax highlighted code block
