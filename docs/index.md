@@ -15,8 +15,7 @@ I have done my schooling from Atomic Energy Central School (AECS-1) Kalpakkam (f
 
 
 ### Hobbies and Interests
-My hobbies and interests are not much but exists. I like playing Badminton, but I am not able to play it during lockdown but it has a place in my heart and when I will get a chance, I will just grab it like anything. I am also interested in writing poetry when in humour. And I generally write sonnets (a poem of 14 lines). I am fitness addicted too so, I feel a day incomplete without workout. I am also interested in programming as I have learnt `Python` and in the process of learning C
-
+My hobbies and interests are not much but exists. I like playing Badminton, but I am not able to play it during lockdown but it has a place in my heart and when I will get a chance, I will just grab it like anything. I am also interested in writing poetry when in humour. And I generally write sonnets (a poem of 14 lines). I am fitness addicted too so, I feel a day incomplete without workout. I am also interested in programming as I have learnt `Python` and in the process of learning `C`
 
 
 
