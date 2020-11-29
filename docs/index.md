@@ -22,5 +22,5 @@ My hobbies and interests are not much but exists. I like playing Badminton, but 
 
 
 ### Support or Contact
-You can follow me on [instagram](https://www.instagram.com/aniroid.v/)
+You can follow me and contact me on [instagram](https://www.instagram.com/aniroid.v/) or through my email id, ani.339677@gmail.com
 
