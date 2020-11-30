@@ -1,5 +1,5 @@
 ## Welcome to the world of Anirudh Verma
-<img src="https://user-images.githubusercontent.com/75009931/100592901-be050400-331d-11eb-803d-61db76bc0015.jpg" width=200 />
+![](https://user-images.githubusercontent.com/75009931/100592901-be050400-331d-11eb-803d-61db76bc0015.jpg)
 
 Hello world! I welcome you to my world. Let me introduce myself and begin with my name.
 I am Anirudh Verma. My world begins with me and ends with me as my name does it with letter 'a'. So, in my world you all are just visiters in which only some special and few peoples are allowed to feel my vibes. For rest, it has "Do Not Touch" board. So, carefully step in and step out in my world and have a safe and happy journey at your own risk.
