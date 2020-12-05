@@ -6,6 +6,10 @@ I am Anirudh Verma. My world begins with me and ends with me as my name does it 
 ### Brief about me
 I am a person with an attitude of being **UNSTOPPABLE** as my name even suggests that. Currently, I am a student in Guru Nanak Dev Engineering College (GNDEC) Ludhiana, Punjab. And I am pursuing B.Tech Course in Mechanical Engineering. I live in Chengalpattu district of TamilNadu but I basically belong to Haryana. Interestingly, my birthplace is Chennai. And I opened my eyes for the first time, in the year 2003. Date and month can be easily guessed by all of you as I share it with **Prime Minister Shri Narendra Modi**.
 I have done my schooling from Atomic Energy Central School (AECS-1) Kalpakkam (from 1st to 3rd standard) and AECS Anupuram (from 4th to 12th standard). I have secured 93% in 10th std and 95.2% in 10+2 CBSE board.
+| S.No. | Detail | Description |
+| ----- | -------- | -------------|
+| 1.    |          |            |
+
 
 
 
