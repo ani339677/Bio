@@ -11,7 +11,7 @@ I am a person with an attitude of being _**UNSTOPPABLE**_ as my name even sugges
 
  
 I have done my schooling from Atomic Energy Central School (AECS-1) Kalpakkam (from 1st to 3rd standard) and AECS Anupuram (from 4th to 12th standard). I have secured 93% in 10th std and 95.2% in 10+2 CBSE board.  
-I have many wonderful memories with my school. I love my school a lot. My friends and teachers are priceless to me. I really miss those wonderful and amazing days in school. Myself and a few of my friends have made a tour video of our [school](https://youtu.be/7IQGvSjyhz0) and I really miss that fun-time spending together for making this video and bunking classes for it. And had a great experience in making it.
+I have many wonderful memories with my school. I love my school a lot. My friends and teachers are priceless to me. I really miss those wonderful and amazing days in school. Myself and a few of my friends have made a tour video of our school, [AECS Anupuram](https://youtu.be/7IQGvSjyhz0) and I really miss that fun-time spending together for making this video and bunking classes for it. And had a great experience in making it.
 
 
 
