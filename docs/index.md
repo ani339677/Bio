@@ -15,17 +15,6 @@ I have many wonderful memories with my school. I love my school a lot. My friend
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 ## Hobbies and Interests
 My hobbies and interests are not much but exists. No person in this world is born without interests, some interests can match with others or some can be unique. Well, my hobbies and interests are :
 - I like playing Badminton, but I am not able to play it during lockdown but it has a place in my heart and when I will get a chance, I will just grab it like anything.
@@ -45,8 +34,8 @@ You can follow me and contact me on [instagram](https://www.instagram.com/aniroi
 
 | S.No.    |  Topic  |
 | -------- | ------- |
-|   1.     | [Welcome to the world of Anirudh Verma](https://github.com/ani339677/Bio/blob/main/docs/index.md#welcome-to-the-world-of-anirudh-verma) |
-|   2.     | [Brief about me](https://github.com/ani339677/Bio/blob/main/docs/index.md#brief-about-me) |
-|   2.1.   | [Qualification](https://github.com/ani339677/Bio/blob/main/docs/index.md#qualification) |
-|   3.     | [Hobbies and Interests](https://github.com/ani339677/Bio/blob/main/docs/index.md#hobbies-and-interests) |
-|   4.     | [Contact and Support](https://github.com/ani339677/Bio/blob/main/docs/index.md#support-or-contact) |
+|   1.     | Welcome to the world of Anirudh Verma |
+|   2.     | Brief about me |
+|   2.1.   | Qualification |
+|   3.     | Hobbies and Interests |
+|   4.     | Contact and Support |
