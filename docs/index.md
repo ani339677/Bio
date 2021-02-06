@@ -34,8 +34,8 @@ You can follow me and contact me on [instagram](https://www.instagram.com/aniroi
 
 | S.No.    |  Topic  |
 | -------- | ------- |
-|   1.     | Welcome to the world of Anirudh Verma |
-|   2.     | Brief about me |
-|   2.1.   | Qualification |
-|   3.     | Hobbies and Interests |
-|   4.     | Contact and Support |
+|   1.     | [Welcome to the world of Anirudh Verma](https://github.com/ani339677/Bio/blob/main/docs/index.md#welcome-to-the-world-of-anirudh-verma) |
+|   2.     | [Brief about me]() |
+|   2.1.   | [Qualification]() |
+|   3.     | [Hobbies and Interests]() |
+|   4.     | [Contact and Support]() |
